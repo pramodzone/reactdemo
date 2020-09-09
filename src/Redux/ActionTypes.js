@@ -1,0 +1,1 @@
+export const ADD_ENCOUNTER= "ADD_ENCOUNTER"
