@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/physicianApp/static/css/main.31c27506.chunk.css",
+    "main.js": "/physicianApp/static/js/main.8da5c311.chunk.js",
+    "main.js.map": "/physicianApp/static/js/main.8da5c311.chunk.js.map",
+    "runtime-main.js": "/physicianApp/static/js/runtime-main.0d383faa.js",
+    "runtime-main.js.map": "/physicianApp/static/js/runtime-main.0d383faa.js.map",
+    "static/js/2.262570be.chunk.js": "/physicianApp/static/js/2.262570be.chunk.js",
+    "static/js/2.262570be.chunk.js.map": "/physicianApp/static/js/2.262570be.chunk.js.map",
+    "index.html": "/physicianApp/index.html",
+    "precache-manifest.6c062c620bf0a9186b8d3da9a525ed14.js": "/physicianApp/precache-manifest.6c062c620bf0a9186b8d3da9a525ed14.js",
+    "service-worker.js": "/physicianApp/service-worker.js",
+    "static/css/main.31c27506.chunk.css.map": "/physicianApp/static/css/main.31c27506.chunk.css.map",
+    "static/js/2.262570be.chunk.js.LICENSE.txt": "/physicianApp/static/js/2.262570be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d383faa.js",
+    "static/js/2.262570be.chunk.js",
+    "static/css/main.31c27506.chunk.css",
+    "static/js/main.8da5c311.chunk.js"
+  ]
+}
